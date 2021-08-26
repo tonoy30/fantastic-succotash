@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"typescript": "^4.3.5"
+	},
+	"scripts": {
+		"build": "tsc --watch",
+		"start": "lite-server"
+	},
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	},
+	"license": "MIT"
+}
